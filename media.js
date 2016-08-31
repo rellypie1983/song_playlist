@@ -1,3 +1,4 @@
+//Git addition/edit test
 function Media(title, duration) {
   this.title = title;
   this.duration = duration;
